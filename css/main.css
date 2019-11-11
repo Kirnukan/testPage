@@ -1,11 +1,11 @@
 @font-face{
     font-family: 'Barlow-Thin';
-    src: url(./fonts/Barlow-Thin.otf);
+    src: url(../fonts/Barlow-Thin.otf);
 
 }
 @font-face{
     font-family: 'Barlow-Black';
-    src: url(./fonts/Barlow-Black.otf);
+    src: url(../fonts/Barlow-Black.otf);
 
 }
 body{
